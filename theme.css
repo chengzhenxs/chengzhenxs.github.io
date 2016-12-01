@@ -1,0 +1,56 @@
+body {
+	background-color: hsl(30, 100%, 95%);
+	padding: 0% 20%
+}
+
+#navigator {
+	padding-left: 15%;
+}
+
+.tab {
+	background-color: inherit;
+	font-size: 15px;
+	height: 40px;
+	color: hsl(240, 50%, 50%);
+	border-style: none;
+}
+
+.centering {
+	text-align: center;
+}
+
+.block {
+	background-color: White;
+	border: 2px solid;
+	border-radius: 10px;
+	padding: 10px 10%;
+}
+
+.title {
+	background-color: inherit;
+	font-size: 15px;
+	height: 40px;
+	color: hsl(180, 50%, 50%);
+	border-style: none;
+}
+
+h2 {
+	color: hsl(225, 50%, 50%);
+}
+
+h3 {
+	color: hsl(210, 50%, 50%);
+}
+
+h4 {
+	color: hsl(195, 50%, 50%);
+}
+
+p {
+	font-size: 12pt;
+}
+
+*:first-letter {
+	font-size: 120%;
+}
+
