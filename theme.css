@@ -51,7 +51,7 @@ p {
 	font-size: 12pt;
 }
 
-*:first-letter {
+:not(span):first-letter {
 	font-size: 120%;
 }
 
